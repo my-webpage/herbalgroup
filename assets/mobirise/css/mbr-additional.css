@@ -1677,7 +1677,7 @@ a {
   opacity: .75;
 }
 .cid-teGlNtzgOY .modal-header .close svg {
-  fill: #353535;
+  fill: #000000;
 }
 .cid-teGlNtzgOY .modal-header .close:hover {
   opacity: 1;
@@ -1806,15 +1806,9 @@ a {
 .cid-teGlNtzgOY .mbr-section-btn .btn {
   margin: 0;
 }
-#custom-html-n {
+#custom-html-p {
   /* Type valid CSS here */
 }
-#custom-html-n div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-n p {
-  font-size: 60px;
-  color: #777;
+#custom-html-p div {
+  padding: 0px 0;
 }
